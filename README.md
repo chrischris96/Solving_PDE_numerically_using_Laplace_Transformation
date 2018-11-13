@@ -1,4 +1,4 @@
-# Solving_PDE_numerically_using_Laplace_Transformation
+# Solving partial differential equations numerically using Laplace Transformation (Thesis)
 Calculation of wave equations using mixed boundary conditions.
 
 The use of a transmission line to model the wave propagation of signals is a widely used
